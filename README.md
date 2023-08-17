@@ -16,8 +16,8 @@
     <endYear>2023</endYear>
     <endMonth>06</endMonth>
     <stockNo>1216</stockNo>
-</params>
-、、、
+</params>```
+
 執行 main.py 檔案，程式將讀取 setting.xml 設定，根據設定的起始年月和結束年月，以及股票代號，爬取相應的股票交易資料。
 主要功能
 讀取 setting.xml 設定檔，包括要爬取的起始年月、結束年月、股票代號等資訊。
